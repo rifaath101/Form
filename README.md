@@ -11,7 +11,7 @@ Concepts learned :
 1. Validating user information
 2. Using an API to retrieve the list of countries
 3. Using MUI to create a form
-4. Working with forms using React
+4. Working with forms using React and useReducer
 
 ![image](https://user-images.githubusercontent.com/72337379/150691363-cd21b5fe-57d4-430d-b619-4de511eebb54.png)
 
