@@ -1,7 +1,6 @@
 # React-Form-MUI with Validation
-![Form_-_Google_Chrome_2022-01-24_10-59-50_AdobeCreativeCloudExpress (1)](https://user-images.githubusercontent.com/72337379/150739415-26fc23d0-639c-429d-a52d-8329fbe28cd9.gif)
 
-
+https://user-images.githubusercontent.com/72337379/150741184-67988f78-ed3d-4a84-9ffa-33c7f54d0d0b.mp4
 
 https://mui-form-rifaath.netlify.app/
 
