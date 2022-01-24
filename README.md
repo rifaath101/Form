@@ -1,4 +1,7 @@
 # React-Form-MUI with Validation
+![Form_-_Google_Chrome_2022-01-24_10-59-50_AdobeCreativeCloudExpress (1)](https://user-images.githubusercontent.com/72337379/150739415-26fc23d0-639c-429d-a52d-8329fbe28cd9.gif)
+
+
 
 https://mui-form-rifaath.netlify.app/
 
@@ -13,67 +16,5 @@ Concepts learned :
 3. Using MUI to create a form
 4. Working with forms using React and useReducer
 
-![image](https://user-images.githubusercontent.com/72337379/150691363-cd21b5fe-57d4-430d-b619-4de511eebb54.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/72337379/150691404-5c8485b1-c534-42c7-82b4-324c4209b2e7.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/72337379/150691470-c56a0328-0576-418c-9160-0f9b63481bd4.png)
 
