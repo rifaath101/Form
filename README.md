@@ -18,7 +18,7 @@ To learn how to create a form with validation
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/72337379/154081345-2d0f9028-f2ca-4d63-82e8-e864debe14ba.png)
+![image](https://user-images.githubusercontent.com/72337379/154081579-6a888d62-e4ed-45af-af98-33295537ff9e.png)
 
 
 
